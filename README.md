@@ -18,7 +18,7 @@ To deploy this project run
 And you will be able to use it or modify it without any problem!
 ## Support
 
-For support, you can contact NPone29#0000 via Discord or send an email to fan1de_pinewood@gmail.com.
+For support, you can contact NPone29#0000 via Discord or send an email to fan1depinewood@gmail.com.
 
 
 
