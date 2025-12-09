@@ -9,9 +9,9 @@
 const surprises = [
             "☕ A hot chocolate awaits you!",
             "🎵 IT'S TIME!",
-            "📖 Let's read a good Christmas story.",
+            "📖 Let's read a Christmas story.",
             "🍪 It's cookie time!",
-            "⭐ Make your Chistmas wish list!",
+            "⭐ Make your wish list!",
             "🎨 Draw something beautiful",
             "🎬 Watch a Christmas movie",
             "💌 Send a message to a friend",
