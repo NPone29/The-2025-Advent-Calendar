@@ -1,7 +1,7 @@
 //Function: Create an advent calendar with surprises for each day in December leading up to Christmas.
 //Author: NPone29
 //Date: 29/11/2025
-//Version: 1.1.3
+//Version: 1.1.4
 
 
 
@@ -28,8 +28,8 @@ const surprises = [
             "💝 Give a sincere compliment",
             "🎲 Play a board game",
             "🍰 Bake something delicious",
-            "✨ Meditate for 10 minutes",
-            "🎭 Dance like nobody's watching",
+            "🎿 Let's ski or snowboard",
+            "🌉 Recall your favorite holiday",
             "🎉 It's Christmas Eve!"
         ];
     
@@ -56,8 +56,8 @@ const surprises = [
         "https://www.unjourunjeu.fr/wp-content/uploads/2020/11/guirlande-noel-5.jpg",
         "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2021/11/jeusociete-noel-1024x576.jpg?key=f6ca9c78",
         "https://tse3.mm.bing.net/th/id/OIP.cfgLghYcmqJLl66XrecZ1AHaFL?rs=1&pid=ImgDetMain&o=7&rm=3",
-        "https://media.istockphoto.com/photos/christmas-woman-meditating-picture-id524153111?k=20&m=524153111&s=612x612&w=0&h=6LMculT53oNESlUusG-2Arf3W6aksNe4XDMs5T3vlEQ=",
-        "https://img.freepik.com/photos-premium/ballerine-dansante-cadeau-dans-ses-mains-chaussons-pointe-costume-pere-noel-fond-bleu-fonce_298446-3189.jpg",
+        "https://img.redbull.com/images/c_crop,w_2736,h_1824,x_0,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2019/12/04/8e89fbee-f686-4ff3-b680-2b54178fd1b6/switzerland-skiing",
+        "https://fabulouswashington.com/wp-content/uploads/sites/4/2023/07/holiday-vacation-planning.jpg",
         "https://cdn.britannica.com/62/147462-050-3C0642C4/front-yard-Christmas.jpg"
     ]
 
