@@ -1,7 +1,7 @@
 //Function: Create an advent calendar with surprises for each day in December leading up to Christmas.
 //Author: NPone29
-//Date: 29/11/2025
-//Version: 1.1.4
+//Date: 06/01/2026
+//Version: 1.1.6
 
 
 
@@ -87,9 +87,13 @@ const surprises = [
             const today = new Date();
             const month = today.getMonth() + 1; // 0-11, so +1
             const day = today.getDate();
-            
+            const year = today.getFullYear();
+
+            if(year !== 2025) {
+                return 24;
+            }
             // Check if we're in December
-            if (month === 12) {
+            if (year === 2025 && month === 12) {
                 return day;
             }
             return 0; // Not in December
